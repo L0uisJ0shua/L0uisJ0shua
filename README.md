@@ -16,15 +16,16 @@ Breaking stuff and making new ones. Here to learn
 - Fuzzing for Rust Binaries
 
 
-# Things I write about
+## Things I write about
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-# Recent StackOverflow Activity
+## Recent StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
-# More about me:
+
+### More about me:
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][LinkedIn]
 [<img align="left" alt="LinkedIn" width="22px" src="images/twitter.png" />][Twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="images/hackerone.png" />][HackerOne]
