@@ -9,19 +9,19 @@ Breaking stuff and making new ones. Here to learn
     - Playing on my Guitar
     - in Church!
 
-# What am I currently working on
+## What am I currently working on
 - Learning how to use Rust for Frontend and Backend Development
 - CTFs, Bug Bounty
 - Migration of afterclass.io
 - Fuzzing for Rust Binaries
 
 
-## Things I write about
+### Things I write about
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-## Recent StackOverflow Activity
+### Recent StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
