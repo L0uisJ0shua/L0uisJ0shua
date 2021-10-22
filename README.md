@@ -11,6 +11,7 @@ Breaking stuff and making new ones. Here to learn
 
 ## What am I currently working on
 - Learning how to use Rust for Frontend and Backend Development
+- Learning Go
 - CTFs, Bug Bounty
 - Migration of afterclass.io
 - Fuzzing for Rust Binaries
