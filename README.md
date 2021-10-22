@@ -25,9 +25,9 @@ Breaking stuff and making new ones. Here to learn
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 # More about me:
-[![LinkedIn](images/linkedin.png)][LinkedIn]
-[![Twitter](images/twitter.png)][Twitter]
-[![HackerOne](images/hackerone.png)][HackerOne]
+[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][LinkedIn]
+[<img align="left" alt="LinkedIn" width="22px" src="images/twitter.png" />][Twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="images/hackerone.png" />)][HackerOne]
 
 -->
 
