@@ -23,6 +23,8 @@ Breaking stuff and making new ones. Here to learn
 - [From (Almost) 0x0 to OSCP: My Journey to become OSCP](https://nullbyte.medium.com/from-almost-0x0-to-oscp-my-journey-to-become-oscp-122f782976a0?source=rss-9c088b1760ea------2)
 - [Road to OSCP: HTB Series: NETMON Writeup](https://nullbyte.medium.com/road-to-oscp-htb-series-netmon-writeup-ff713f8a6164?source=rss-9c088b1760ea------2)
 - [Road to OSCP: HTB Series: BUFF](https://nullbyte.medium.com/road-to-oscp-htb-series-buff-31109b48a190?source=rss-9c088b1760ea------2)
+- [Road to OSCP: HTB Series: Active Writeup](https://nullbyte.medium.com/road-to-oscp-htb-series-active-writeup-e37296e9e1e3?source=rss-9c088b1760ea------2)
+- [Road to OSCP: HTB Series: Cronos Writeup](https://nullbyte.medium.com/road-to-oscp-htb-series-cronos-writeup-5c20c33f1e6b?source=rss-9c088b1760ea------2)
 <!-- BLOG-POST-LIST:END -->
 
 
