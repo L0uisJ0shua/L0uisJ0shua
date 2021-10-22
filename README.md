@@ -28,6 +28,8 @@ Breaking stuff and making new ones. Here to learn
 
 ### Recent StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How can I run a command before compiling the packages of the dependencies with `cargo build`?](https://stackoverflow.com/questions/66984102/how-can-i-run-a-command-before-compiling-the-packages-of-the-dependencies-with)
+- [Modifying AFL to include a new variable for the Fuzzer to consider in seed selection](https://stackoverflow.com/questions/66794072/modifying-afl-to-include-a-new-variable-for-the-fuzzer-to-consider-in-seed-selec)
 <!-- STACKOVERFLOW:END -->
 
 ### More about me:
