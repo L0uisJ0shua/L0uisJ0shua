@@ -38,7 +38,7 @@ Breaking stuff and making new ones. Here to learn
 ### More about me:
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][LinkedIn]
 [<img align="left" alt="LinkedIn" width="22px" src="images/twitter.png" />][Twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="images/hackerone.png" />][HackerOne]
+[<img align="left" alt="LinkedIn" width="22px" src="images/hackerone.png" /> <br>][HackerOne]
 
 
 
