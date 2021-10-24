@@ -38,6 +38,12 @@ Breaking stuff and making new ones. Here to learn
 [<img align="left" alt="LinkedIn" width="22px" src="images/hackerone.png" />][HackerOne]
 
 
+
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=L0uisJ0shua)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 [LinkedIn]: https://www.linkedin.com/in/louis-joshua-low/
 [Twitter]: https://twitter.com/lojomojo96
 [HackerOne]: https://hackerone.com/l0j0?type=user
