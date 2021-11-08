@@ -21,7 +21,7 @@ Breaking stuff and making new ones. Here to learn
 <!-- BLOG-POST-LIST:START -->
 - [HTB Write Up: Monitors](https://nullbyte.medium.com/hack-the-box-write-up-monitors-77923a583793?source=rss-9c088b1760ea------2)
 - [Hack The Box: ScriptKiddie Writeup](https://nullbyte.medium.com/hack-the-box-scriptkiddie-writeup-a3573d403abc?source=rss-9c088b1760ea------2)
-- [From (Almost) 0x0 to OSCP: My Journey to become OSCP](https://nullbyte.medium.com/from-almost-0x0-to-oscp-my-journey-to-become-oscp-122f782976a0?source=rss-9c088b1760ea------2)
+- [From &lpar;Almost&rpar; 0x0 to OSCP: My Journey to become OSCP](https://nullbyte.medium.com/from-almost-0x0-to-oscp-my-journey-to-become-oscp-122f782976a0?source=rss-9c088b1760ea------2)
 - [Road to OSCP: HTB Series: NETMON Writeup](https://nullbyte.medium.com/road-to-oscp-htb-series-netmon-writeup-ff713f8a6164?source=rss-9c088b1760ea------2)
 - [Road to OSCP: HTB Series: BUFF](https://nullbyte.medium.com/road-to-oscp-htb-series-buff-31109b48a190?source=rss-9c088b1760ea------2)
 - [Road to OSCP: HTB Series: Active Writeup](https://nullbyte.medium.com/road-to-oscp-htb-series-active-writeup-e37296e9e1e3?source=rss-9c088b1760ea------2)
