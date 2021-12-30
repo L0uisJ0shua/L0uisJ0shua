@@ -10,11 +10,13 @@ Breaking stuff and making new ones. Here to learn
     - in Church
 
 ## What am I currently working on
-- Learning how to use Rust framework for web development
 - Working on offensive tools with Go
+- Learning JS
 - CTFs, Bug Bounty
 - Projects to improve church experience
 
+## Languages I work with
+Go, Python, Rust, C, C++, PHP, JS
 
 ### Things I write about
 <!-- BLOG-POST-LIST:START -->
