@@ -3,18 +3,17 @@
 OSCP | SMU Final Year Undergrad majoring in Cybersecurity and Software Development
 
 Breaking stuff and making new ones. Here to learn
-- 💬 Ask me about: Hacking, CTFs, fuzzing for Rust
+- 💬 Ask me about: Hacking, CTFs, fuzzing Rust Binaries
 - ⚡ Fun fact: If I wasn't coding or hacking, I would be...
     - Playing softball/baseball
     - Playing on my Guitar
-    - in Church!
+    - in Church
 
 ## What am I currently working on
-- Learning how to use Rust for Frontend and Backend Development
-- Learning Go
+- Learning how to use Rust framework for web development
+- Working on offensive tools with Go
 - CTFs, Bug Bounty
-- Migration of afterclass.io
-- Fuzzing for Rust Binaries
+- Projects to improve church experience
 
 
 ### Things I write about
