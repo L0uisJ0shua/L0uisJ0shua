@@ -1,22 +1,22 @@
 # Nice to meet you! 👋
 
-OSCP | SMU Final Year Undergrad majoring in Cybersecurity and Software Development
+OSCP | Security Engineer
 
 Breaking stuff and making new ones. Here to learn
-- 💬 Ask me about: Hacking, CTFs, fuzzing Rust Binaries
+- 💬 Ask me about: Hacking, CTFs, BBP (Looking to learn and collab!)
 - ⚡ Fun fact: If I wasn't coding or hacking, I would be...
     - Playing softball/baseball
     - Playing on my Guitar
     - in Church
 
 ## What am I currently working on
-- Working on offensive tools with Go
-- Learning JS
+- Building offensive tools in Go/Python
+- Learning NestJS
 - CTFs, Bug Bounty
 - Projects to improve church experience
 
 ## Languages I work with
-Go, Python, Rust, C, C++, PHP, JS
+Go, Python, Rust, C, C++, JS
 
 ### Things I write about
 <!-- BLOG-POST-LIST:START -->
