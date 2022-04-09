@@ -12,7 +12,7 @@ Breaking stuff and making new ones. Here to learn
 ## What am I currently working on
 - Building offensive tools in Go/Python
 - Learning NestJS
-- CTFs, Bug Bounty
+- Bug Bounty
 - Projects to improve church experience
 
 ## Languages I work with
