@@ -1,6 +1,6 @@
 # Nice to meet you! 👋
 
-OSCP | Security Engineer
+OSCP | Security Engineer at TikTok
 
 Breaking stuff and making new ones. Here to learn
 - 💬 Ask me about: Hacking, CTFs, BBP (Looking to learn and collab!)
