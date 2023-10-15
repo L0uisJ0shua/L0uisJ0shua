@@ -5,18 +5,18 @@ OSCP | Security Engineer
 Breaking stuff and making new ones. Here to learn
 - 💬 Ask me about: Hacking, CTFs, BBP (Looking to learn and collab!)
 - ⚡ Fun fact: If I wasn't coding or hacking, I would be...
-    - Playing softball/baseball
+    - Playing baseball
     - Playing on my Guitar
-    - in Church
+    - Running
+    - Developing for my Church
 
 ## What am I currently working on
-- Building offensive tools in Go/Python
-- Learning NestJS
-- Bug Bounty
-- Projects to improve church experience
+- Learning to develop security capabilities or platforms. (Doing this in Golang!)
+- Learning how to develop in Rust, particular interest in WebAssembly with Rust and writing Rust for Embedded Devices.
+- Development Projects on platforms for my church.
 
 ## Languages I work with
-Go, Python, Rust, C, C++, JS
+Go, Rust, JS, Python
 
 ### Things I write about
 <!-- BLOG-POST-LIST:START -->
@@ -49,7 +49,7 @@ Go, Python, Rust, C, C++, JS
 
 
 
-[LinkedIn]: https://www.linkedin.com/in/louis-joshua-low/
+[LinkedIn]: https://www.linkedin.com/in/lvwei-l0j0/
 [Twitter]: https://twitter.com/lojomojo96
 [HackerOne]: https://hackerone.com/l0j0?type=user
 
