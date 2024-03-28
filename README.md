@@ -1,22 +1,25 @@
 # Nice to meet you! 👋
 
-OSCP | Security Engineer at TikTok
+OSCP | Security Engineer at TikTok/ByteDance
 
-Breaking stuff and making new ones. Here to learn
-- 💬 Ask me about: Hacking, CTFs, BBP (Looking to learn and collab!)
+Combining the art of hacking with engineering to build Security capabilities and services. Here to learn and grow. Reach out if you wanna work on projects that alchemise both hacking and development together!
+
+- 💬 Ask me about: Hacking, CTFs, BBP, Researching on technologies
 - ⚡ Fun fact: If I wasn't coding or hacking, I would be...
     - Playing baseball
     - Playing on my Guitar
     - Running
-    - Developing for my Church
+    - Volunteering as a Developer in my Church
 
 ## What am I currently working on
-- Learning to develop security capabilities or platforms. (Doing this in Golang!)
+- Developing Phishing Discovery and Detection Capabilities (Golang FTW!)
+- Reading and Learning Web Methodologies and keeping up on how people research and find web bugs.
 - Learning how to develop in Rust, particular interest in WebAssembly with Rust and writing Rust for Embedded Devices.
-- Development Projects on platforms for my church.
+- Full-stack Development Project in TypeScript
+- Writing Vulnerability Management automation or ideating and playing around with things to help with Vulnerability management.
 
 ## Languages I work with
-Go, Rust, JS, Python
+Go, Rust, JS/TS, Python
 
 ### Things I write about
 <!-- BLOG-POST-LIST:START -->
@@ -53,9 +56,6 @@ Go, Rust, JS, Python
 [LinkedIn]: https://www.linkedin.com/in/lvwei-l0j0/
 [Twitter]: https://twitter.com/lojomojo96
 [HackerOne]: https://hackerone.com/l0j0?type=user
-
-
-
 
 
 <!--
