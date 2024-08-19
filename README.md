@@ -12,10 +12,10 @@ Combining the art of hacking with engineering to build Security capabilities and
     - Volunteering as a Developer in my Church
 
 ## What am I currently working on
-- Developing Phishing Discovery and Detection Capabilities (Golang FTW!)
+- Developing Third Party SDK Monitoring Platform (Golang FTW!)
 - Reading and Learning Web Methodologies and keeping up on how people research and find web bugs.
 - Learning how to develop in Rust, particular interest in WebAssembly with Rust and writing Rust for Embedded Devices.
-- Full-stack Development Project in TypeScript
+- Reading up on how Ethereum works and learning more about Web2 and Web3 Attack Vectors, inspired by talks by w1sp during DEFCON32.
 - Writing Vulnerability Management automation or ideating and playing around with things to help with Vulnerability management.
 
 ## Languages I work with
