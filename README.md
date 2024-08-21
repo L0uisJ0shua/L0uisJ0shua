@@ -1,6 +1,6 @@
 # Nice to meet you! 👋
 
-OSCP | Security Engineer at TikTok/ByteDance
+OSCP | Security Engineer at TikTok
 
 Combining the art of hacking with engineering to build Security capabilities and services. Here to learn and grow. Reach out if you wanna work on projects that alchemise both hacking and development together!
 
