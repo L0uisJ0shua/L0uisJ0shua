@@ -1,6 +1,6 @@
 # Nice to meet you! 👋
 
-OSCP | Security Engineer at TikTok
+Security Engineer at TikTok
 
 Combining the art of hacking with engineering to build Security capabilities and services. Here to learn and grow. Reach out if you wanna work on projects that alchemise both hacking and development together!
 
@@ -12,9 +12,7 @@ Combining the art of hacking with engineering to build Security capabilities and
     - Volunteering as a Developer in my Church
 
 ## What am I currently working on
-- Developing Third Party SDK Monitoring Platform (Golang FTW!)
 - Reading and Learning Web Methodologies and keeping up on how people research and find web bugs.
-- Learning how to develop in Rust, particular interest in WebAssembly with Rust and writing Rust for Embedded Devices.
 - Reading up on how Ethereum works and learning more about Web2 and Web3 Attack Vectors, inspired by talks by w1sp during DEFCON32.
 - Writing Vulnerability Management automation or ideating and playing around with things to help with Vulnerability management.
 
@@ -56,6 +54,12 @@ Go, Rust, JS/TS, Python
 [Twitter]: https://twitter.com/lojomojo96
 [HackerOne]: https://hackerone.com/l0j0?type=user
 
+### Certifications
+OSCP
+OSTH
+OSWE
+OSWA
+CDP
 
 <!--
 **L0uisJ0shua/L0uisJ0shua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
