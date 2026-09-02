@@ -1,20 +1,17 @@
 # Nice to meet you! 👋
 
-Security Engineer at TikTok
+Combining the art of hacking with engineering to build security capabilities and services. Here to learn and grow. Reach out if you wanna work on projects that alchemise both hacking and development together!
 
-Combining the art of hacking with engineering to build Security capabilities and services. Here to learn and grow. Reach out if you wanna work on projects that alchemise both hacking and development together!
-
-- 💬 Ask me about: Hacking, CTFs, BBP, Researching on technologies
+- 💬 Ask me about: Hacking, Building stuff, BBP, Researching on technologies
 - ⚡ Fun fact: If I wasn't coding or hacking, I would be...
-    - Playing baseball
-    - Playing on my Guitar
+    - Playing my Guitar
     - Running
     - Volunteering as a Developer in my Church
 
 ## What am I currently working on
-- Reading and Learning Web Methodologies and keeping up on how people research and find web bugs.
-- Reading up on how Ethereum works and learning more about Web2 and Web3 Attack Vectors, inspired by talks by w1sp during DEFCON32.
-- Writing Vulnerability Management automation or ideating and playing around with things to help with Vulnerability management.
+- Transiting to a new workplace
+- Researching and trying out new things on BBPs
+- Reading up and learning more about AI and how it can be applied to Security operations and management
 
 ## Languages I work with
 Go, Rust, JS/TS, Python
@@ -29,14 +26,6 @@ Go, Rust, JS/TS, Python
 - [Road to OSCP: HTB Series: Active Writeup](https://nullbyte.medium.com/road-to-oscp-htb-series-active-writeup-e37296e9e1e3?source=rss-9c088b1760ea------2)
 - [Road to OSCP: HTB Series: Cronos Writeup](https://nullbyte.medium.com/road-to-oscp-htb-series-cronos-writeup-5c20c33f1e6b?source=rss-9c088b1760ea------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-### Recent StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by l0j0 for what does &quot;QUERY&quot; mean in the reponse of dig?](https://stackoverflow.com/questions/70424902/what-does-query-mean-in-the-reponse-of-dig/70425016#70425016)
-- [How can I run a command before compiling the packages of the dependencies with `cargo build`?](https://stackoverflow.com/questions/66984102/how-can-i-run-a-command-before-compiling-the-packages-of-the-dependencies-with)
-- [Modifying AFL to include a new variable for the Fuzzer to consider in seed selection](https://stackoverflow.com/questions/66794072/modifying-afl-to-include-a-new-variable-for-the-fuzzer-to-consider-in-seed-selec)
-<!-- STACKOVERFLOW:END -->
 
 ### More about me:
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][LinkedIn]
