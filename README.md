@@ -35,8 +35,7 @@ Go, Rust, JS/TS, Python
 
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=L0uisJ0shua)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=L0uisJ0shua)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [LinkedIn]: https://www.linkedin.com/in/lvwei-l0j0/
