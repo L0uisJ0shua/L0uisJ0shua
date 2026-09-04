@@ -6,6 +6,7 @@ Combining the art of hacking with engineering to build security capabilities and
 - ⚡ Fun fact: If I wasn't coding or hacking, I would be...
     - Playing my Guitar
     - Running
+    - Playing Magic The Gathering
     - Volunteering as a Developer in my Church
 
 ## What am I currently working on
